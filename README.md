@@ -1,4 +1,4 @@
-# Population of US States
+# Population
 
 This repository contains a dataset and Python script for analyzing the population of various US states. The dataset includes the estimated population numbers for a sample of 10 states, and the Python script provides basic statistical analysis of the population data.
 
