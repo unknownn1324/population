@@ -6,8 +6,8 @@ This repository contains a dataset and Python script for analyzing the populatio
 
 The dataset includes the following columns:
 
-- **State**: Name of the US state
-- **Population**: Estimated population of the state
+- *State*: Name of the US state
+- *Population*: Estimated population of the state
 
 The data in this example includes 10 states: California, Texas, Florida, New York, Pennsylvania, Illinois, Ohio, Georgia, North Carolina, and Michigan.
 
