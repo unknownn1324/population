@@ -4,10 +4,9 @@ The dataset includes the estimated population numbers for a sample of 10 states,
 
 ## Dataset
 
-The dataset includes the following columns:
-
-- **State**: Name of the US state
-- **Population**: Estimated population of the state
+The dataset includes the following columns
+- *State*: Name of the US state
+- *Population*: Estimated population of the state
 
 The data in this example includes 10 states: California, Texas, Florida, New York, Pennsylvania, Illinois, Ohio, Georgia, North Carolina, and Michigan.
 
