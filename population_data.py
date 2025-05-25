@@ -3,7 +3,7 @@
 import pandas as pd
 import os
 
-data_population = {'Caralina', 'Texas'}
+data_population = {'Caralina', 'Texas', 'Florida'}
 data = {
     'State': ['California', 'Texas', 'Florida', 'New York', 'Pennsylvania', 'Illinois', 'Ohio', 'Georgia', 'North Carolina', 'Michigan'],
     'Population': [39538223, 29145505, 21538187, 20201249, 13002700, 12812508, 11799448, 10711908, 10439388, 10077331]
