@@ -1,6 +1,6 @@
 # population_data
 
-import pandas
+import pandas as pd
 import os
 
 data_population = {'Caralina', 'Texas', 'Florida'}
